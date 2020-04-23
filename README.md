@@ -9,6 +9,7 @@ In this project we build a ML model which is work on KNN Classification to find 
 ## Files Description:
 * **Bmi_male_female.csv** it is the data set of the people.
 * **BMI_Using_KNN_Classification.ipynb** a jupyter notebook which contains code of this project with description.
+* **BMI_Using_KNN_Classification.zip** it is a zip file which contains the above two files.
 
 ## Project Motivation:
 We build a Machine Learning model that is used for prediction of BMI of person.
